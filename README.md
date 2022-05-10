@@ -1,2 +1,2 @@
-# ShortDSAQue
+# DSA Questions
 Random DSA problems
